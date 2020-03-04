@@ -10,14 +10,8 @@ subtitle: What is this?
 artist: artstation.com/dtmayer
 ---
 
-# Looks like I'm doing this.
-Our mind is a constant source of new ideas and thoughts, which often end up garbled after we move on with time, and new
-ideas and thoughts supersede these pieces of brilliance we once had.
-Bookkeeping is essential to record one's state of mind, and for retrospection. I remember the times when my mind was
-bustling with fantastic theories, that I couldn't keep track of them after a while. Most of them have become obscure with time;
-I have forgotten all the specifics and the minute details. That is when I started blogging, to try and keep track of them
-as well as to share these with people who might be fascinated by the same things as I am, which has also introduced me to
-some amazing people.
+# Why do you want to join AMRITA-CS-STAR?
+
 
 # Voice
 Talking of the interest in sharing things, I have developed a new interest in developing a strong voice over a lot of topics,
